@@ -1,5 +1,5 @@
 [project]
-name = "LangGraph-agent-on-MongoDB"
+name = "LAMP"
 version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
