@@ -7,13 +7,13 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-# LangGraph Agent for MongoDB
+# LangGraph Agent for MongoDB Pipelines (LAMP)
 
-LangGraph is a powerful tool designed to manage the LLM agents by inroducing graph structure between different stages(Nodes) of the pipeline.
+LangGraph is a robust tool that manages LLM agents by introducing a graph structure connecting different stages (nodes) of the pipeline.
 
-This agent helps MongoDB for efficient retrieval in natural language.
+This agent enhances MongoDB by enabling efficient data retrieval using natural language.
 
-The idea is that the user nows the type of information in the DB and instead of using SQL, NoSQL queries, asks agent in natural language, than the agent does the search.
+The core idea is that users, who are aware of the type of information stored in the database, can query it in natural language instead of writing SQL or NoSQL queries. The agent interprets the request and performs the search.
 
 The agent generates **full MongoDB pipeline**, which **allows** multi-collection iteractions within given database.
 
